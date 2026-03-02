@@ -15,6 +15,9 @@ Currently diving deeper into Rust and low-level computing concepts to better und
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Web Components](https://img.shields.io/badge/Web_Components-29ABE2?style=for-the-badge)
+![Custom Elements](https://img.shields.io/badge/Custom_Elements-FF6F00?style=for-the-badge)
+![Vanilla TS](https://img.shields.io/badge/Vanilla_TypeScript-3178C6?style=for-the-badge)
 
 ### Backend & Infra
 ![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge)
