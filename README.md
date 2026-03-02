@@ -5,7 +5,7 @@ Currently diving deeper into Rust and low-level computing concepts to better und
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Andlis13/blob/output/github-snake.svg)
+![Snake animation](https://github.com/Andlis13/Andlis13/blob/output/github-snake.svg?raw=true)
 
 ---
 
