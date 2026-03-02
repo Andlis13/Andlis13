@@ -27,10 +27,10 @@ Currently diving deeper into Rust and low-level computing concepts to better und
 ## 🚀 Featured Work
 
 ### 🧩 Modular CRM System
-Fullstack CRM built for ISPs and similar businesses.  
+Contributing to a CRM built for ISPs and similar businesses.  
 Modular architecture, geographic data handling, and production deployment. 
 
-**Stack:** Go / TypeScript / MySQL / Docker 
+**Stack:** Go / TypeScript / PHP / MySQL / Docker 
 
 ---
 
