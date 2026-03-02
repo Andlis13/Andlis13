@@ -3,6 +3,10 @@
 Fullstack developer with approximately 2 years of experience, with a focus on learning more. 
 Currently diving deeper into Rust and low-level computing concepts to better understand how software works from the ground up.
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Andlis13/blob/output/github-snake.svg)
+
 ---
 
 ## 🚀 Tech Stack
